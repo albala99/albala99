@@ -16,7 +16,7 @@
 <h2>Click Here to see my Works</h2>
 <ul>
  <li><a target="_blank" rel="noopener noreferrer" href="https://balaalagappan-ecommerce.netlify.app/">E-commerce</a></li>
-  <li><a target="_blank" rel="noopener noreferrer" href="https://balaalagappan-universitypage.netlify.app/">UniversityPage</a></li>
+  <li><a target="_blank" rel="noopener noreferrer" href="https://balaalagappan-university.netlify.app/">UniversityPage</a></li>
 </ul>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=albala99&show_icons=true&locale=en&layout=compact" alt="albala99"/></p>
 <h1>Connect Through</h1>
