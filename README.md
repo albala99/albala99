@@ -13,8 +13,17 @@
   <li>🌱 Hobby - I'll like to do DIY products.</li>
   </ul>
 
+<h3>Click Here to see my Works</h3>
+<ul>
+ <li><a href="#">E-commerce</a></li>
+</ul>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=albala99&show_icons=true&locale=en&layout=compact" alt="albala99" /></p>
 <h1>Connect Through</h1>
+<a href="https://www.linkedin.com/in/bala-alagappan/">
+   <img src="https://github.com/albala99/albala99/blob/main/icons8-linkedin-50.png" style="max-width: 100%;align=left"/>
+  </a> 
+<a href="mailto:albala99@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png"/> 
+  </a>
 
-<img src="https://github.com/albala99/albala99/blob/main/icons8-linkedin-50.png" style="max-width: 100%;"/>
 
 
