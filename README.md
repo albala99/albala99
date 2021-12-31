@@ -15,14 +15,14 @@
 
 <h2>Click Here to see my Works</h2>
 <ul>
- <li><a href="https://balaalagappan-ecommerce.netlify.app/" target="_blank" rel="noopener noreferrer">E-commerce</a></li>
+ <li><a href="https://balaalagappan-ecommerce.netlify.app/" target="_blank" >E-commerce</a></li>
 </ul>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=albala99&show_icons=true&locale=en&layout=compact" alt="albala99" /></p>
 <h1>Connect Through</h1>
-<a href="https://www.linkedin.com/in/bala-alagappan/" target="_blank" rel="noopener noreferrer">
+<a href="https://www.linkedin.com/in/bala-alagappan/" target="_blank">
    <img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" style="max-width: 100%;align=left"/>
   </a> 
-<a href="mailto:albala99@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png"/> 
+<a href="mailto:albala99@gmail.com" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png"/> 
   </a>
 
 
