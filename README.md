@@ -11,21 +11,11 @@ Hi there 👋 I'm Balasubramanian!
 
 🌱 Hobby - I'll like to do DIY products.
 
-Click Here to see my Works
-
-Hotstar Subscribe Page
-Hotstar Home
-MAHI1119
-
 Connect Through
-[Linkedin](https://www.linkedin.com/in/bala-alagappan/)
+[![LinkedIn][2.2]][1]
 
 <!-- Icons -->
 
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+[2.2]: https://github.com/albala99/albala99/blob/main/icons8-linkedin-50.png (LinkedIn icon without padding
 
-<!-- Links to your social media accounts -->
-
-[1]: https://twitter.com/Martin_Heinz_
-[2]: https://www.linkedin.com/in/heinz-martin/
+[1]: https://www.linkedin.com/in/bala-alagappan/
